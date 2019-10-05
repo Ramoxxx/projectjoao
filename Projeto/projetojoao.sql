@@ -40,11 +40,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 
 INSERT INTO `usuarios` (`id_usuario`, `nome`, `email`, `senha`) VALUES
 (1, '$this->nome', '$this->email', '$this->senha'),
-(2, 'julia', 'nearwiner1234567@gmail.com', '54321'),
-(3, 'rapha', 'raphael@lol.com', 'naoveja'),
-(4, 'rapha', 'raphael@lol.com', 'naoveja'),
-(5, 'julia', 'nearwiner1234567@gmail.com', '12345'),
-(6, 'julia', 'nearwiner1234567@gmail.com', '12345');
+(2, 'leozinnn', 'neassafdcc@gmail.com', '1ssssa2345');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

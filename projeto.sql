@@ -40,7 +40,7 @@ CREATE TABLE `questao` (
 --
 
 INSERT INTO `questao` (`id_questao`, `titulo`, `questao`, `tipo`) VALUES
-(1, 'Questao1', 'o que Ã© String', 'dissertiva');
+(1, 'Questao 1', 'o que é uma variavel', 'dissertiva');
 
 -- --------------------------------------------------------
 
@@ -60,10 +60,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id_usuario`, `nome`, `email`, `senha`) VALUES
-(14, 'Pedro M Cruz', 'menesescruz.pedro@gmail.com', 'nao ve pls'),
-(15, 'Beatriz', 'BeatriCatroque@gmail.com', '654321'),
-(18, 'Raphael', 'Branco@hotmai', '202cb962ac59075b964b07152d234b70'),
-(29, 'Raphael', 'Branco@hotmail', '123'),
+(14, '', '', 'nao ve pls'),
 (33, '', '', '');
 
 --
